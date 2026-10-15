@@ -1,3 +1,0 @@
-fitur login
-1. masukkan
-2. verif
